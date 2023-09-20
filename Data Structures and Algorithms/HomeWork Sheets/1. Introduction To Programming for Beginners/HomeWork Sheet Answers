@@ -1,0 +1,37 @@
+Introduction To Programming (Home Work)
+
+* Convert Decimal to Binary
+1. 37 - 100101
+2. 92 - 1011100
+3. 128 - 10000000
+4. 243 - 11110011
+
+* Convert Binary to Decimal
+5. 1011 - 11
+6. 111001 - 57
+7. 10011011 - 155
+8. 10100100 - 164
+
+* Convert Decimal to Octal 
+9.   28 - 34
+10.  47 - 57
+11.  928 - 1640
+12.  1243 - 2333
+
+* Convert Octal to Decimal
+13.  41 - 33
+14.  207 - 135
+15.  124 - 84
+16.  311 - 201
+
+* Convert Decimal to HexaDecimal
+17.  317 - 13D
+18.  41 - 29
+19.  14 - E
+20.  845 - 34D
+
+* Convert HexaDecimal to Decimal
+21.  A11 - 2577
+22.  49 - 73
+23.  AE2F - 44591
+24.  D97 - 3479
