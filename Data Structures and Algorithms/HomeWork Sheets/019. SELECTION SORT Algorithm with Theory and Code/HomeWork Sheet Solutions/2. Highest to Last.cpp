@@ -13,7 +13,7 @@ int main()
 
     for(int i=n-1;i>0;i--){
         int index=i;
-        for(int j=i;j>=0;j--){
+        for(int j=i-1;j>=0;j--){
             if(arr[j]>arr[index])
                 index=j;
         }
