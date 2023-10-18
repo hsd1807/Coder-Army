@@ -1,3 +1,6 @@
+# Coder Army Tracker
+> All in One, One Stop Tracker
+
 | Day | Lecture | Title | Class Illustrations | Notes | HomeWork Sheet | Solutions | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) ||| [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
@@ -22,3 +25,11 @@
 | 26 | 20 | [Bubble Sort](https://www.youtube.com/watch?v=V3vM_m2iFtk) ||| [Solve](https://docs.google.com/document/d/1f4FJizRZmDRHXHUg8AdADQTrtoI2nJf5faXY2qVvg5I) | [Pending](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/020.%20Bubble%20Sort%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
 | 29 | 21 | [Insertion Sort](https://www.youtube.com/watch?v=YpZUgiT1N94) ||| [Solve](https://docs.google.com/document/d/1_5x8khzxdOksrRs3eHLFXwODUBVOPB2QhmG9IU9KsTA) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/021.%20Insertion%20Sort%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
 | 30 | 22 | [Binary Search](https://www.youtube.com/watch?v=0Hwpzd-bSck) ||| [Solve](https://docs.google.com/document/d/1ONZ4LKLO2eZ8K7o-8OcRuFQ21nNinlhieIkpyZZNONs) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/022.%20Binary%20Search%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
+| 31 | 23 | [Binary Search Different Problems](https://www.youtube.com/watch?v=740PMblqK6o) ||| [Solve](https://docs.google.com/document/d/1-Z7evcSzBfGeROWTDZajupsD6z6IFC0ZFp5LruDluaw) |
+
+## Important Links
+> Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
+
+> CoderArmy Website (Buy premium feature at 99 Only for 6 months): https://www.coderarmy.in
+
+> HomeWork Sheet: https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv
