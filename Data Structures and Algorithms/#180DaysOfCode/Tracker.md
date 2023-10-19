@@ -25,7 +25,8 @@
 | 26 | 20 | [Bubble Sort](https://www.youtube.com/watch?v=V3vM_m2iFtk) ||| [Solve](https://docs.google.com/document/d/1f4FJizRZmDRHXHUg8AdADQTrtoI2nJf5faXY2qVvg5I) | [Pending](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/020.%20Bubble%20Sort%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
 | 29 | 21 | [Insertion Sort](https://www.youtube.com/watch?v=YpZUgiT1N94) ||| [Solve](https://docs.google.com/document/d/1_5x8khzxdOksrRs3eHLFXwODUBVOPB2QhmG9IU9KsTA) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/021.%20Insertion%20Sort%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
 | 30 | 22 | [Binary Search](https://www.youtube.com/watch?v=0Hwpzd-bSck) ||| [Solve](https://docs.google.com/document/d/1ONZ4LKLO2eZ8K7o-8OcRuFQ21nNinlhieIkpyZZNONs) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/022.%20Binary%20Search%20with%20Theory%20and%20Code/HomeWork%20Sheet%20Solutions) |
-| 31 | 23 | [Binary Search Different Problems](https://www.youtube.com/watch?v=740PMblqK6o) ||| [Solve](https://docs.google.com/document/d/1-Z7evcSzBfGeROWTDZajupsD6z6IFC0ZFp5LruDluaw) |
+| 31 | 23 | [Binary Search Different Problems-1](https://www.youtube.com/watch?v=740PMblqK6o) ||| [Solve](https://docs.google.com/document/d/1-Z7evcSzBfGeROWTDZajupsD6z6IFC0ZFp5LruDluaw) |
+| 32 | 24 | [Binary Search Different Problems-2](https://www.youtube.com/watch?v=w2HOAYymS3A) ||| [Solve](https://docs.google.com/document/d/1uE11p-D-SpaFKWlmProc9A_HZhb3ABL77795NOdXGzU) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
