@@ -28,6 +28,7 @@
 | 31 | 23 | [Binary Search Different Problems-1](https://www.youtube.com/watch?v=740PMblqK6o) ||| [Solve](https://docs.google.com/document/d/1-Z7evcSzBfGeROWTDZajupsD6z6IFC0ZFp5LruDluaw) |
 | 32 | 24 | [Binary Search Different Problems-2](https://www.youtube.com/watch?v=w2HOAYymS3A) ||| [Solve](https://docs.google.com/document/d/1uE11p-D-SpaFKWlmProc9A_HZhb3ABL77795NOdXGzU) |
 | 33 | 25 | [Binary Search Top Interview Problems](https://www.youtube.com/watch?v=znIFTUyOQvI) ||| [Solve](https://docs.google.com/document/d/1ie1Xl1tl1y5HE6z7WBXkStaivezRmh8jO_4hvuRk67M) |
+| 36 | 26 | [Binary Search Hard Interview Problems](https://www.youtube.com/watch?v=ThCyc5GcuRQ) ||| [Solve](https://docs.google.com/document/d/1mzAkslYetXyZeIIVcKvCaOKlxED6GPBsD-czhd9zULQ) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
