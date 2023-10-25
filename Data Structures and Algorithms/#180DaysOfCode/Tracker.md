@@ -30,6 +30,7 @@
 | 33 | 25 | [Binary Search Top Interview Problems](https://www.youtube.com/watch?v=znIFTUyOQvI) ||| [Solve](https://docs.google.com/document/d/1ie1Xl1tl1y5HE6z7WBXkStaivezRmh8jO_4hvuRk67M) |
 | 36 | 26 | [Binary Search Hard Interview Problems](https://www.youtube.com/watch?v=ThCyc5GcuRQ) ||| [Solve](https://docs.google.com/document/d/1mzAkslYetXyZeIIVcKvCaOKlxED6GPBsD-czhd9zULQ) |
 | 37 | 27 | [Vector in STL](https://www.youtube.com/watch?v=-tDAAOYFehc) || [View](https://drive.google.com/file/d/1plM8miWbZezyo_T7fu-gIfIXym4a2myE) | [Solve](https://docs.google.com/document/d/1dJwvWCOksD5ixnyOllSikarOM5-39Sy09pVrhXyslQw) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/027.%20What%20is%20STL%20%7C%7C%20Vector%20in%20C%2B%2B/HomeWork%20Sheet%20Solutions) |
+| 38 | 28 | [Two Pointer](https://www.youtube.com/watch?v=KKPjlsLSs5w) ||| [Solve](https://docs.google.com/document/d/1ixXo3c5UVRa0fSYHI5hoJLTmsbVgASYxPQpywYLRJqc) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
