@@ -33,6 +33,7 @@
 | 38 | 28 | [Two Pointer](https://www.youtube.com/watch?v=KKPjlsLSs5w) ||| [Solve](https://docs.google.com/document/d/1ixXo3c5UVRa0fSYHI5hoJLTmsbVgASYxPQpywYLRJqc) |
 | 39 | 29 | [Kadane's Algorithm, Prefix and Suffix](https://www.youtube.com/watch?v=2YksXVZitrE) ||| [Solve](https://docs.google.com/document/d/1HiJPIox88th4izuDq70B27s38ePj_QXfG9rkPfVZfgQ) |
 | 40 | 30 | [Trapping Rain Water, 3 SUM & 4 SUM](https://www.youtube.com/watch?v=p6YN-l9QW7c) ||| [Solve](https://docs.google.com/document/d/1S2zwDs59nGN8dBKrLKa2h2F9LXEZqFPxLHD0RsNoyWE) |
+| 43 | 31 | [2D Arrays](https://www.youtube.com/watch?v=kP5EoGyTHbA) ||| [Solve](https://docs.google.com/document/d/1aJ8_lp8c8onGrR-NEIgYJKrUSVNsayqHk3vexJxYuuw) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/031.%202D%20Arrays%20in%20C%2B%2B/HomeWork%20Sheet%20Solutions) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
