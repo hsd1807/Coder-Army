@@ -1,0 +1,2 @@
+The Column Major Order is a method for storing multi-dimensional arrays in linear storage in contiguous manner.
+In Column Major Order, the elements of a column of a multi-dimensional array are stored adajacent to each other in the memory, then followed by elements of next column, starting from top.
