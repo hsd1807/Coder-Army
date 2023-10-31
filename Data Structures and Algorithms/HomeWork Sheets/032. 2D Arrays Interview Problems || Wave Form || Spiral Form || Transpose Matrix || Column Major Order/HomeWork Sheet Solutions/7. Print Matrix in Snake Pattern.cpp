@@ -1,6 +1,6 @@
 class Solution
 {   
-    public:/*Function to return list of integers visited in snake pattern in matrix.*/
+    public: /*Function to return list of integers visited in snake pattern in matrix.*/
     vector<int> snakePattern(vector<vector<int> > matrix)
     {   
         int n=matrix.size();
