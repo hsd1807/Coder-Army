@@ -42,7 +42,7 @@
 | 51 | 37 | []() ||| []() |
 | 52 | 38 | []() ||| []() |
 | 53 | 39 | []() ||| []() |
-| 54 | 40 | []() ||| []() |
+| 54 | 40 | [String Problem Solving](https://www.youtube.com/watch?v=BXocVkXthOE) ||| []() |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
