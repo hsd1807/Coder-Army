@@ -41,7 +41,7 @@
 | 50 | 36 | []() ||| []() |
 | 51 | 37 | []() ||| []() |
 | 52 | 38 | []() ||| []() |
-| 53 | 39 | []() ||| []() |
+| 53 | 39 | [String Problem Solving](https://www.youtube.com/watch?v=iw9CK0ssgDU) ||| []() |
 | 54 | 40 | [String Problem Solving](https://www.youtube.com/watch?v=BXocVkXthOE) ||| []() |
 
 ## Important Links
