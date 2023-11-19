@@ -39,10 +39,10 @@
 | 46 | 34 | [Binary Search in 2D Arrays](https://www.youtube.com/watch?v=BA1ppstdJi8) ||| [Solve](https://docs.google.com/document/d/1pOWds18hkD_k1E4x83Ocup-aaCdVq7a9rElMnWYDL4I) |
 | 47 | 35 | [Solving Hard Problems On Arrays](https://www.youtube.com/watch?v=ncvJHz_gffI) ||| [Solve](https://docs.google.com/document/d/14NS76IzocqVQoaDF2_oxJIA-WXbC-UkOQ2HnK-F3ptE) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/035.%20Solving%20Hard%20Problems%20On%20Arrays%20With%20Simple%20Logic%20%7C%7C%20Majority%20Elements%20%7C%7C%20Count%20Frequency%20of%20Element/HomeWork%20Sheet%20Solutions) |
 | 50 | 36 | [Introduction To Strings](https://www.youtube.com/watch?v=FkaIZAQKmWU) ||| []() |
-| 51 | 37 | []() ||| []() |
+| 51 | 37 | [String Problem Solving-1](https://www.youtube.com/watch?v=BCHJ9YizW7w) ||| []() |
 | 52 | 38 | []() ||| []() |
-| 53 | 39 | [String Problem Solving](https://www.youtube.com/watch?v=iw9CK0ssgDU) ||| []() |
-| 54 | 40 | [String Problem Solving](https://www.youtube.com/watch?v=BXocVkXthOE) ||| []() |
+| 53 | 39 | [String Problem Solving-3](https://www.youtube.com/watch?v=iw9CK0ssgDU) ||| []() |
+| 54 | 40 | [String Problem Solving-4](https://www.youtube.com/watch?v=BXocVkXthOE) ||| []() |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
