@@ -1,5 +1,3 @@
-// User function Template for C++
-
 class Solution {
   public:
     int smallestSubstring(string S) {
@@ -12,6 +10,7 @@ class Solution {
                 count[S[second]]++;
                 second++;
             }
+          
             while(found==3){
                 if(len==-1) len=INT_MAX;
                 len=min(len,second-first);
