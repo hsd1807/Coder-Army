@@ -43,9 +43,10 @@
 | 52 | 38 | [String Problem Solving-2](https://www.youtube.com/watch?v=U1OZQl1fU7g) ||| []() |
 | 53 | 39 | [String Problem Solving-3](https://www.youtube.com/watch?v=iw9CK0ssgDU) ||| []() |
 | 54 | 40 | [String Problem Solving-4](https://www.youtube.com/watch?v=BXocVkXthOE) ||| []() |
-| 57 | 41 | [Sliding Window Protocol on Strings](https://www.youtube.com/watch?v=swBjx46TSP4) ||| [Solve](https://docs.google.com/document/d/1lGykYolOyQeJ0mF1mQYG-lHwa4PQA45raI12xlQr8RE) |
-| 58 | 42 | [KMP Algorithm-1 Longest Prefix Suffix](https://www.youtube.com/watch?v=sODA1BzFvsE) ||| [Solve](https://docs.google.com/document/d/1Huc6_2YFggr0F91UcFyvPVsR-uKIxdZpzm6fwyogvMo) |
-| 59 | 43 | [KMP Algorithm-2 String Matching](https://www.youtube.com/watch?v=6gQR8TaFXMw) ||| [Solve](https://docs.google.com/document/d/1JbBtEY40bKvCk3LV-ISJQM_4B5kwoLhZpnXqIAYF0uc) |
+| 57 | 41 | [Sliding Window Protocol on Strings](https://www.youtube.com/watch?v=swBjx46TSP4) ||| [Solve](https://docs.google.com/document/d/1lGykYolOyQeJ0mF1mQYG-lHwa4PQA45raI12xlQr8RE) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/041.%20Sliding%20Window%20Protocol%20on%20Strings/HomeWork%20Sheet%20Solutions) |
+| 58 | 42 | [KMP Algorithm-1 Longest Prefix Suffix](https://www.youtube.com/watch?v=sODA1BzFvsE) ||| [Solve](https://docs.google.com/document/d/1Huc6_2YFggr0F91UcFyvPVsR-uKIxdZpzm6fwyogvMo) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/042.%20KMP%20Algorithm%20%7C%7C%20Longest%20Prefix%20Suffix/HomeWork%20Sheet%20Solutions) |
+| 59 | 43 | [KMP Algorithm-2 String Matching](https://www.youtube.com/watch?v=6gQR8TaFXMw) ||| [Solve](https://docs.google.com/document/d/1JbBtEY40bKvCk3LV-ISJQM_4B5kwoLhZpnXqIAYF0uc) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/043.%20String%20Matching%20%7C%7C%20KMP%20Algorithm/HomeWork%20Sheet%20Solutions) |
+| 60 | 44 | [KMP Algorithm-3](https://www.youtube.com/watch?v=VB-tDA9TOq0) ||| [Solve](https://docs.google.com/document/d/1b7fLWiiMYYmqJSWaCUN_NCtgcQscR1mRZIsNykwtpHE) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
