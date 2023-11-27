@@ -3,7 +3,7 @@
 
 | Day | Lecture | Title | Class Illustrations | Notes | HomeWork Sheet | Solutions | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
-| 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1CsGyWbmwkRpu9fXoLjQcs6g-2Gq-UhZW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
+| 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
 | 2 | 2 | [FlowCharts and PseudoCode](https://www.youtube.com/watch?v=H_9MSvTL74g) ||| [Solve](https://docs.google.com/document/d/1ighQuVjhWbIcBLko_l24Nn3rNch9MKxaWjKgXP2Y-OI) |
 | 3 | 3 | [Start C++](https://www.youtube.com/watch?v=2Gexv2eld4Y) ||| [Solve](https://docs.google.com/document/d/12WCf8uYyC5KqhF-WvR9o0SkyvKDZlILk4z7HdhRK1T4) |
 | 4 | 4 | [If Else Statement and Loop](https://www.youtube.com/watch?v=gGaJJovz-4k) ||| [Solve](https://docs.google.com/document/d/1RgJHduYfDV0b3fDHB17lQ_XxI9clAW1OxJSVgmW7ufw) |
@@ -47,7 +47,8 @@
 | 58 | 42 | [KMP Algorithm-1 Longest Prefix Suffix](https://www.youtube.com/watch?v=sODA1BzFvsE) ||| [Solve](https://docs.google.com/document/d/1Huc6_2YFggr0F91UcFyvPVsR-uKIxdZpzm6fwyogvMo) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/042.%20KMP%20Algorithm%20%7C%7C%20Longest%20Prefix%20Suffix/HomeWork%20Sheet%20Solutions) |
 | 59 | 43 | [KMP Algorithm-2 String Matching](https://www.youtube.com/watch?v=6gQR8TaFXMw) ||| [Solve](https://docs.google.com/document/d/1JbBtEY40bKvCk3LV-ISJQM_4B5kwoLhZpnXqIAYF0uc) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/043.%20String%20Matching%20%7C%7C%20KMP%20Algorithm/HomeWork%20Sheet%20Solutions) |
 | 60 | 44 | [KMP Algorithm-3](https://www.youtube.com/watch?v=VB-tDA9TOq0) ||| [Solve](https://docs.google.com/document/d/1b7fLWiiMYYmqJSWaCUN_NCtgcQscR1mRZIsNykwtpHE) |
-| 61 | 45 | [Introduction to Pointers](https://www.youtube.com/watch?v=EUPirt55uY4) | [Solve](https://docs.google.com/document/d/1_I5-uLjfk0FJGGd7GNlmRhT7IJUKICLbaXVikPZt5HU) |
+| 61 | 45 | [Introduction to Pointers](https://www.youtube.com/watch?v=EUPirt55uY4) ||| [Solve](https://docs.google.com/document/d/1_I5-uLjfk0FJGGd7GNlmRhT7IJUKICLbaXVikPZt5HU) |
+| 64 | 46 | [Pointers Relationship with Array & Pointers Arithmetic](https://www.youtube.com/watch?v=KA3XnH6eYpY) | ||| [Solve](https://docs.google.com/document/d/1gysn0lihkjwL90rn06RqTJ7YAdmm2LvGg8ZAxvbEbn0) |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
