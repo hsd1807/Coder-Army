@@ -48,7 +48,8 @@
 | 59 | 43 | [KMP Algorithm-2 String Matching](https://www.youtube.com/watch?v=6gQR8TaFXMw) ||| [Solve](https://docs.google.com/document/d/1JbBtEY40bKvCk3LV-ISJQM_4B5kwoLhZpnXqIAYF0uc) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/043.%20String%20Matching%20%7C%7C%20KMP%20Algorithm/HomeWork%20Sheet%20Solutions) |
 | 60 | 44 | [KMP Algorithm-3](https://www.youtube.com/watch?v=VB-tDA9TOq0) ||| [Solve](https://docs.google.com/document/d/1b7fLWiiMYYmqJSWaCUN_NCtgcQscR1mRZIsNykwtpHE) |
 | 61 | 45 | [Introduction to Pointers](https://www.youtube.com/watch?v=EUPirt55uY4) ||| [Solve](https://docs.google.com/document/d/1_I5-uLjfk0FJGGd7GNlmRhT7IJUKICLbaXVikPZt5HU) |
-| 64 | 46 | [Pointers Relationship with Array & Pointers Arithmetic](https://www.youtube.com/watch?v=KA3XnH6eYpY) | ||| [Solve](https://docs.google.com/document/d/1gysn0lihkjwL90rn06RqTJ7YAdmm2LvGg8ZAxvbEbn0) |
+| 64 | 46 | [Pointers Relationship with Array & Pointers Arithmetic](https://www.youtube.com/watch?v=KA3XnH6eYpY) ||| [Solve](https://docs.google.com/document/d/1gysn0lihkjwL90rn06RqTJ7YAdmm2LvGg8ZAxvbEbn0) |
+| 65 | 47 | [Pointers with Character Arrays and Functions](https://www.youtube.com/watch?v=FfNA_g0Quh0) ||| [Solve]() |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
