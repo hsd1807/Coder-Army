@@ -49,7 +49,9 @@
 | 60 | 44 | [KMP Algorithm-3](https://www.youtube.com/watch?v=VB-tDA9TOq0) ||| [Solve](https://docs.google.com/document/d/1b7fLWiiMYYmqJSWaCUN_NCtgcQscR1mRZIsNykwtpHE) |
 | 61 | 45 | [Introduction to Pointers](https://www.youtube.com/watch?v=EUPirt55uY4) ||| [Solve](https://docs.google.com/document/d/1_I5-uLjfk0FJGGd7GNlmRhT7IJUKICLbaXVikPZt5HU) |
 | 64 | 46 | [Pointers Relationship with Array & Pointers Arithmetic](https://www.youtube.com/watch?v=KA3XnH6eYpY) ||| [Solve](https://docs.google.com/document/d/1gysn0lihkjwL90rn06RqTJ7YAdmm2LvGg8ZAxvbEbn0) |
-| 65 | 47 | [Pointers with Character Arrays and Functions](https://www.youtube.com/watch?v=FfNA_g0Quh0) ||| [Solve]() |
+| 65 | 47 | [Pointers with Character Arrays and Functions](https://www.youtube.com/watch?v=FfNA_g0Quh0) ||| [Solve](https://docs.google.com/document/d/1WLkXpW2qWthMEgrU--G9w4fS1pp_yE7Nb7m4cdLVAQ8) |
+| 66 | 48 | [Double Pointer and Multiple Pointers](https://www.youtube.com/watch?v=j2GInxA3HpI) ||| [Solve](https://docs.google.com/document/d/1SvTBPzz4WCWSQhwmkmR-7alAoIqCQ9VnYOd_iobLe3s) |
+| 67 | 49 | [Memory Management, Memory Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
 
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
