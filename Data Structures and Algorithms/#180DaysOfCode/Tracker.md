@@ -53,9 +53,15 @@
 | 66 | 48 | [Double Pointer and Multiple Pointers](https://www.youtube.com/watch?v=j2GInxA3HpI) ||| [Solve](https://docs.google.com/document/d/1SvTBPzz4WCWSQhwmkmR-7alAoIqCQ9VnYOd_iobLe3s) |
 | 67 | 49 | [Memory Management, Memory Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
 
+# LIVE Classes
+| Class Number | Topic | Notes |
+| - | - | - |
+| 1 | [Introduction to Arrays in C++](https://unacademy.com/class/introduction-to-arrays-in-c/6ZMMUMMU) | |
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
 
 > CoderArmy Website (Buy premium feature at 99 Only for 6 months): https://www.coderarmy.in
 
 > HomeWork Sheet: https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv
+
+
