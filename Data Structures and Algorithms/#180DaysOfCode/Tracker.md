@@ -51,7 +51,9 @@
 | 64 | 46 | [Pointers Relationship with Array & Pointers Arithmetic](https://www.youtube.com/watch?v=KA3XnH6eYpY) ||| [Solve](https://docs.google.com/document/d/1gysn0lihkjwL90rn06RqTJ7YAdmm2LvGg8ZAxvbEbn0) |
 | 65 | 47 | [Pointers with Character Arrays and Functions](https://www.youtube.com/watch?v=FfNA_g0Quh0) ||| [Solve](https://docs.google.com/document/d/1WLkXpW2qWthMEgrU--G9w4fS1pp_yE7Nb7m4cdLVAQ8) |
 | 66 | 48 | [Double Pointer and Multiple Pointers](https://www.youtube.com/watch?v=j2GInxA3HpI) ||| [Solve](https://docs.google.com/document/d/1SvTBPzz4WCWSQhwmkmR-7alAoIqCQ9VnYOd_iobLe3s) |
-| 67 | 49 | [Memory Management, Memory Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
+| 67 | 49 | [Memory Management and Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
+| 71 | 50 | [Dynamic Memory Allocation of 2D and 3D Arrays](https://www.youtube.com/watch?v=tFCc2ESnG4w) ||| [Solve](https://docs.google.com/document/d/1VDGxA2n-fUqRApYPm0uCQpPKiPQc9FKuVPgBPx2xDLs) |
+| 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) ||| [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) |
 
 # LIVE Classes
 | Class Number | Topic | Notes |
