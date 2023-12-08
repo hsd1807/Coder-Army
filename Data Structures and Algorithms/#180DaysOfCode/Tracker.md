@@ -56,6 +56,7 @@
 | 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) ||| [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) |
 | 73 | 52 |[Solve Recursion Problem from 4 Different Methods](https://www.youtube.com/watch?v=2OQ46x0Zka8) ||| [Solve](https://docs.google.com/document/d/1BzXvbAbFf0elb5BzbFj8AmkM6nK3kxPxwWLvxaPtlEk) |
 | 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) |
+| 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
 | | | []() ||| []() |
 
 # LIVE Classes
