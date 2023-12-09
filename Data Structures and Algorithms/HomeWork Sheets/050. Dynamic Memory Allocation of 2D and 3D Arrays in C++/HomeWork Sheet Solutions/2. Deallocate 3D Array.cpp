@@ -20,6 +20,6 @@ int main()
         }
         delete [] ptr[i];
     }
-    delete ptr;
+    delete [] ptr;
     return 0;
 }
