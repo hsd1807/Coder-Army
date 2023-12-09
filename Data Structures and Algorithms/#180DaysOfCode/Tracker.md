@@ -53,7 +53,7 @@
 | 66 | 48 | [Double Pointer and Multiple Pointers](https://www.youtube.com/watch?v=j2GInxA3HpI) ||| [Solve](https://docs.google.com/document/d/1SvTBPzz4WCWSQhwmkmR-7alAoIqCQ9VnYOd_iobLe3s) |
 | 67 | 49 | [Memory Management and Allocation](https://www.youtube.com/watch?v=bLYuiCD0Sr4) ||| []() |
 | 71 | 50 | [Dynamic Memory Allocation of 2D and 3D Arrays](https://www.youtube.com/watch?v=tFCc2ESnG4w) ||| [Solve](https://docs.google.com/document/d/1VDGxA2n-fUqRApYPm0uCQpPKiPQc9FKuVPgBPx2xDLs) |
-| 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) ||| [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) |
+| 72 | 51 | [Introduction To Recursion](https://www.youtube.com/watch?v=j_n1W5YgN_4) ||| [Solve](https://docs.google.com/document/d/1i3NCiFKN9Bl3tkXW2zoXzE8h0nJ0WCKv4uGnk5wUxz4) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/051.%20Introduction%20To%20Recursion%20From%20Basic%20To%20Advance/HomeWork%20Sheet%20Solutions) |
 | 73 | 52 |[Solve Recursion Problem from 4 Different Methods](https://www.youtube.com/watch?v=2OQ46x0Zka8) ||| [Solve](https://docs.google.com/document/d/1BzXvbAbFf0elb5BzbFj8AmkM6nK3kxPxwWLvxaPtlEk) |
 | 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) |
 | 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
@@ -63,6 +63,7 @@
 | Class Number | Topic | Notes |
 | - | - | - |
 | 1 | [Introduction to Arrays in C++](https://unacademy.com/class/introduction-to-arrays-in-c/6ZMMUMMU) | |
+| 2 | [Binary Search in DSA](https://unacademy.com/class/binary-search-in-dsa/NDJR4ZO4) | |
 ## Important Links
 > Join Our Whatsapp Channel: https://www.whatsapp.com/channel/0029Va6H0tbHVvTbcuT99Y1f
 
