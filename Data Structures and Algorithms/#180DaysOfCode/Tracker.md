@@ -58,6 +58,7 @@
 | 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) |
 | 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
 | 76 | 55 | [Recursion in Arrays](https://www.youtube.com/watch?v=OxXS1m7afIQ) ||| [Solve](https://docs.google.com/document/d/1lzUIXHtk7LnExRm1w01xwLbGURZV7eXUHDsGgOTw3DY) |
+| 77 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
 | | | []() ||| []() |
 
 # LIVE Classes
