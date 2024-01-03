@@ -1,6 +1,10 @@
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
+> Also checkout out -> https://t.me/Codingenthusiasm/ for the Notes.
+
+> Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
+
 | Day | Lecture | Title | Class Illustrations | Notes | HomeWork Sheet | Solutions | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
@@ -61,6 +65,19 @@
 | 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
 | 80 | 57 | [Recursion in Binary Search](https://www.youtube.com/watch?v=OnrJK8DcD2M) ||| [Solve](https://docs.google.com/document/d/1SAYcJjyQOHJwkJl4WMQZJH3GHmx787vWa9akhV3gth0) |
 | 81 | 58 | [Time Complexity and Space Complexity in Recursion](https://www.youtube.com/watch?v=2Ekun-ocGnQ) ||| [Solve](https://docs.google.com/document/d/1jR1DMVTqNwykIWc1zapQTBVUIodKsrFSkXD5nDldnx8) |
+| 82 | 59 | [Merge Sort Algorithm](https://www.youtube.com/watch?v=86HOPLCgc00) ||| []() |
+| 85 | 60 | [Quick Sort Algorithm](https://www.youtube.com/watch?v=iVj8uyd50f4) ||| []() |
+| 86 | 61 | [Recursion on Subsequence, Print All Subsequence & Generate Parentheses](https://www.youtube.com/watch?v=VxFM14y1-v4) ||| []() |
+| 87 | 62 | [Recursion on Subset Sum, Target Sum](https://www.youtube.com/watch?v=73X0vvmUNHE) ||| []() |
+| 88 | 63 | [Recursion Perfect Sum Problem, Target Sum with Repetition](https://www.youtube.com/watch?v=ki9elYV2r24) ||| []() |
+| 89 | 64 | [Permutation of Arrays and Strings](https://www.youtube.com/watch?v=i7ev3Rb6dEo) ||| []() |
+| 92 | 65 | [ Permutation with Repetition,Ways to Sum N](https://www.youtube.com/watch?v=CQOUIxwQmec) ||| []() |
+| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| []() |
+| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| []() |
+| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| []() |
+| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| []() |
+| 99 | 70 | [Introduction To Object Oriented Programming](https://www.youtube.com/watch?v=iw1Xf_33YM0) ||| []() |
+| 100 | 71 | [Constructor and Destructor](https://www.youtube.com/watch?v=sNiiJ16dLz0) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
