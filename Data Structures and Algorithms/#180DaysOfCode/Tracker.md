@@ -65,20 +65,21 @@
 | 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
 | 80 | 57 | [Recursion in Binary Search](https://www.youtube.com/watch?v=OnrJK8DcD2M) ||| [Solve](https://docs.google.com/document/d/1SAYcJjyQOHJwkJl4WMQZJH3GHmx787vWa9akhV3gth0) |
 | 81 | 58 | [Time Complexity and Space Complexity in Recursion](https://www.youtube.com/watch?v=2Ekun-ocGnQ) ||| [Solve](https://docs.google.com/document/d/1jR1DMVTqNwykIWc1zapQTBVUIodKsrFSkXD5nDldnx8) |
-| 82 | 59 | [Merge Sort Algorithm](https://www.youtube.com/watch?v=86HOPLCgc00) ||| [Solve]() |
-| 85 | 60 | [Quick Sort Algorithm](https://www.youtube.com/watch?v=iVj8uyd50f4) ||| [Solve]() |
-| 86 | 61 | [Recursion on Subsequence, Print All Subsequence & Generate Parentheses](https://www.youtube.com/watch?v=VxFM14y1-v4) ||| [Solve]() |
-| 87 | 62 | [Recursion on Subset Sum, Target Sum](https://www.youtube.com/watch?v=73X0vvmUNHE) ||| [Solve]() |
-| 88 | 63 | [Recursion Perfect Sum Problem, Target Sum with Repetition](https://www.youtube.com/watch?v=ki9elYV2r24) ||| [Solve]() |
-| 89 | 64 | [Permutation of Arrays and Strings](https://www.youtube.com/watch?v=i7ev3Rb6dEo) ||| [Solve]() |
-| 92 | 65 | [ Permutation with Repetition,Ways to Sum N](https://www.youtube.com/watch?v=CQOUIxwQmec) ||| [Solve]() |
-| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| [Solve]() |
-| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| [Solve]() |
-| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| [Solve]() |
-| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| [Solve]() |
-| 99 | 70 | [Introduction To Object Oriented Programming](https://www.youtube.com/watch?v=iw1Xf_33YM0) ||| [Solve]() |
-| 100 | 71 | [Constructor and Destructor](https://www.youtube.com/watch?v=sNiiJ16dLz0) ||| [Solve]() |
-| 101 | 72 | [Static data Member and Function, Encapsulation & Abstraction](https://www.youtube.com/watch?v=ZIL8t5AoGmQ) ||| [Solve]() |
+| 82 | 59 | [Merge Sort Algorithm](https://www.youtube.com/watch?v=86HOPLCgc00) ||| [Solve](https://docs.google.com/document/d/1rlcfbRod8-KLleMrA7pOcQX0Cs6Ldd7UDlKPt-mcdOs) |
+| 85 | 60 | [Quick Sort Algorithm](https://www.youtube.com/watch?v=iVj8uyd50f4) ||| [Solve](https://docs.google.com/document/d/1IB8LQ5DaK4TPp-Z_lTI4AJ1jVXLBX1pgwt8iVN9apPo) |
+| 86 | 61 | [Recursion on Subsequence, Print All Subsequence & Generate Parentheses](https://www.youtube.com/watch?v=VxFM14y1-v4) ||| [Solve](https://docs.google.com/document/d/1bBQHnmBCQ73dZ4CAwKtCwqS1HS-VyPSsEWNGMCtycTY) |
+| 87 | 62 | [Recursion on Subset Sum, Target Sum](https://www.youtube.com/watch?v=73X0vvmUNHE) ||| [Solve](https://docs.google.com/document/d/1spu4emqSGAvfa9GCwK3g-2mDWbli7izhiGqMqMQU7KQ) |
+| 88 | 63 | [Recursion Perfect Sum Problem, Target Sum with Repetition](https://www.youtube.com/watch?v=ki9elYV2r24) ||| [Solve](https://docs.google.com/document/d/1Gg8eOt6PhAkvQ4R-GhYvnQCbF5Pk_Ozn4DPyxjoEkYQ) |
+| 89 | 64 | [Permutation of Arrays and Strings](https://www.youtube.com/watch?v=i7ev3Rb6dEo) ||| [Solve](https://docs.google.com/document/d/1yEcj3HusMbQhK9PJAJrith3im9Kf8ldkcHO-JI_yiF4) |
+| 92 | 65 | [ Permutation with Repetition,Ways to Sum N](https://www.youtube.com/watch?v=CQOUIxwQmec) ||| [Solve](https://docs.google.com/document/d/1XIlmd87WT9s18dzkwoIbdDO3PuvZFMCml_A-wF8I9UA) |
+| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| - |
+| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| - |
+| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| - |
+| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| - |
+| 99 | 70 | [Introduction To Object Oriented Programming](https://www.youtube.com/watch?v=iw1Xf_33YM0) ||| [Solve](https://docs.google.com/document/d/1Wi3Vb5HO7NemmoVqCR_VxCbBmRJkAAETuwisWqI3rUc) |
+| 100 | 71 | [Constructor and Destructor](https://www.youtube.com/watch?v=sNiiJ16dLz0) ||| [Solve](https://docs.google.com/document/d/1AvF6VNPoTAIjmvmGY6WiG_WA64PlMhX1-H_tfwBSaMM) |
+| 101 | 72 | [Static data Member and Function, Encapsulation & Abstraction](https://www.youtube.com/watch?v=ZIL8t5AoGmQ) ||| [Solve](https://docs.google.com/document/d/1yZgg5Jfky0cFY8UcbnQOaYg02msXyCaVuTIXXzH6Ya0) |
+| 102 | 73 | [Inheritance](https://www.youtube.com/watch?v=qq3BY4viEB4) ||| [Solve]() |
 | | | []() ||| []() |
 
 # LIVE Classes
