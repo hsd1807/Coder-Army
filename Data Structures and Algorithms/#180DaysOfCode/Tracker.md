@@ -72,10 +72,10 @@
 | 88 | 63 | [Recursion Perfect Sum Problem, Target Sum with Repetition](https://www.youtube.com/watch?v=ki9elYV2r24) ||| [Solve](https://docs.google.com/document/d/1Gg8eOt6PhAkvQ4R-GhYvnQCbF5Pk_Ozn4DPyxjoEkYQ) |
 | 89 | 64 | [Permutation of Arrays and Strings](https://www.youtube.com/watch?v=i7ev3Rb6dEo) ||| [Solve](https://docs.google.com/document/d/1yEcj3HusMbQhK9PJAJrith3im9Kf8ldkcHO-JI_yiF4) |
 | 92 | 65 | [ Permutation with Repetition,Ways to Sum N](https://www.youtube.com/watch?v=CQOUIxwQmec) ||| [Solve](https://docs.google.com/document/d/1XIlmd87WT9s18dzkwoIbdDO3PuvZFMCml_A-wF8I9UA) |
-| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| - |
-| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| - |
-| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| - |
-| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| - |
+| 93 | 66 | [Tower of Hanoi](https://www.youtube.com/watch?v=V5vNq2WOPGE) ||| [Solve](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) |
+| 94 | 67 | [Josephus Problem - Predict the winner](https://www.youtube.com/watch?v=WoLrGKbxR-M) ||| [Solve](https://leetcode.com/problems/find-the-winner-of-the-circular-game) |
+| 95 | 68 | [Recursion Rat in a Maze Problem](https://www.youtube.com/watch?v=r6I99L8E410) ||| [Solve](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) |
+| 96 | 69 | [Print N-bit binary numbers having more 1s than 0s](https://www.youtube.com/watch?v=Rsz-P47fy4c) ||| [Solve](https://www.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1) |
 | 99 | 70 | [Introduction To Object Oriented Programming](https://www.youtube.com/watch?v=iw1Xf_33YM0) ||| [Solve](https://docs.google.com/document/d/1Wi3Vb5HO7NemmoVqCR_VxCbBmRJkAAETuwisWqI3rUc) |
 | 100 | 71 | [Constructor and Destructor](https://www.youtube.com/watch?v=sNiiJ16dLz0) ||| [Solve](https://docs.google.com/document/d/1AvF6VNPoTAIjmvmGY6WiG_WA64PlMhX1-H_tfwBSaMM) |
 | 101 | 72 | [Static data Member and Function, Encapsulation & Abstraction](https://www.youtube.com/watch?v=ZIL8t5AoGmQ) ||| [Solve](https://docs.google.com/document/d/1yZgg5Jfky0cFY8UcbnQOaYg02msXyCaVuTIXXzH6Ya0) |
