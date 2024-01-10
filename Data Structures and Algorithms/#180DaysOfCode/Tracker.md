@@ -61,7 +61,7 @@
 | 73 | 52 |[Solve Recursion Problem from 4 Different Methods](https://www.youtube.com/watch?v=2OQ46x0Zka8) ||| [Solve](https://docs.google.com/document/d/1BzXvbAbFf0elb5BzbFj8AmkM6nK3kxPxwWLvxaPtlEk) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/052.%20How%20To%20Solve%20Recursion%20Problem%20from%204%20Different%20Method/HomeWork%20Sheet%20Solutions) |
 | 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/053.%20Recursion%3A%20Factorial%20of%20a%20Number%20%7C%20Sum%20of%20N%20numbers%20%7C%20Power%20of%20number%20%7C%20Sum%20of%20Square%20of%20N%20Numbers/HomeWork%20Sheet%20Solutions) |
 | 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
-| 78 | 55 | [Recursion in Arrays](https://www.youtube.com/watch?v=OxXS1m7afIQ) ||| [Solve](https://docs.google.com/document/d/1lzUIXHtk7LnExRm1w01xwLbGURZV7eXUHDsGgOTw3DY) |
+| 78 | 55 | [Recursion in Arrays](https://www.youtube.com/watch?v=OxXS1m7afIQ) ||| [Solve](https://docs.google.com/document/d/1lzUIXHtk7LnExRm1w01xwLbGURZV7eXUHDsGgOTw3DY) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/055.%20Recursion%20in%20Arrays/HomeWork%20Sheet%20Solution) |
 | 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
 | 80 | 57 | [Recursion in Binary Search](https://www.youtube.com/watch?v=OnrJK8DcD2M) ||| [Solve](https://docs.google.com/document/d/1SAYcJjyQOHJwkJl4WMQZJH3GHmx787vWa9akhV3gth0) |
 | 81 | 58 | [Time Complexity and Space Complexity in Recursion](https://www.youtube.com/watch?v=2Ekun-ocGnQ) ||| [Solve](https://docs.google.com/document/d/1jR1DMVTqNwykIWc1zapQTBVUIodKsrFSkXD5nDldnx8) |
@@ -81,6 +81,7 @@
 | 101 | 72 | [Static data Member and Function, Encapsulation & Abstraction](https://www.youtube.com/watch?v=ZIL8t5AoGmQ) ||| [Solve](https://docs.google.com/document/d/1yZgg5Jfky0cFY8UcbnQOaYg02msXyCaVuTIXXzH6Ya0) |
 | 102 | 73 | [Inheritance](https://www.youtube.com/watch?v=qq3BY4viEB4) ||| [-]() |
 | 106 | 74 | [Types of Inheritance](https://www.youtube.com/watch?v=ww02EpE4DZo) ||| [Solve](https://docs.google.com/document/d/1liT4V5S4rxanlkzqX4tsRslkh9d_NSpN9-01962nJ5s) |
+| 107 | 75 | [Polymorphism and Virtual Function](https://www.youtube.com/watch?v=p2h8rGnkD0o) ||| [Solve](https://docs.google.com/document/d/1w95UtbHuoBNTrs5ptSCIsdveDUEoJAyoPPBTXWIOLSo) |
 | | | []() ||| []() |
 
 # LIVE Classes
