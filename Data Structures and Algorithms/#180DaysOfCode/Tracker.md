@@ -82,6 +82,7 @@
 | 102 | 73 | [Inheritance](https://www.youtube.com/watch?v=qq3BY4viEB4) ||| [-]() |
 | 106 | 74 | [Types of Inheritance](https://www.youtube.com/watch?v=ww02EpE4DZo) ||| [Solve](https://docs.google.com/document/d/1liT4V5S4rxanlkzqX4tsRslkh9d_NSpN9-01962nJ5s) |
 | 107 | 75 | [Polymorphism and Virtual Function](https://www.youtube.com/watch?v=p2h8rGnkD0o) ||| [Solve](https://docs.google.com/document/d/1w95UtbHuoBNTrs5ptSCIsdveDUEoJAyoPPBTXWIOLSo) |
+| 108 | 76 | [Exception Handling](https://www.youtube.com/watch?v=essQiHKRmrc) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
