@@ -1,6 +1,8 @@
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
+> [Complete DSA Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td)
+
 > Also checkout out -> https://t.me/Codingenthusiasm/ for the Notes.
 
 > Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
@@ -83,6 +85,7 @@
 | 106 | 74 | [Types of Inheritance](https://www.youtube.com/watch?v=ww02EpE4DZo) ||| [Solve](https://docs.google.com/document/d/1liT4V5S4rxanlkzqX4tsRslkh9d_NSpN9-01962nJ5s) |
 | 107 | 75 | [Polymorphism and Virtual Function](https://www.youtube.com/watch?v=p2h8rGnkD0o) ||| [Solve](https://docs.google.com/document/d/1w95UtbHuoBNTrs5ptSCIsdveDUEoJAyoPPBTXWIOLSo) |
 | 108 | 76 | [Exception Handling](https://www.youtube.com/watch?v=essQiHKRmrc) ||| []() |
+| 109 | 77 | [File Handling](https://www.youtube.com/watch?v=NBsmPHXjLfg) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
