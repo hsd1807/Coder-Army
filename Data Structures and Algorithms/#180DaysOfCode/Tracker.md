@@ -3,7 +3,7 @@
 
 > [Complete DSA Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td)
 
-> Also checkout out -> https://t.me/Codingenthusiasm/ for the Notes.
+> Also checkout out -> https://t.me/codingenthusiats for the Notes.
 
 > Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
 
@@ -86,6 +86,7 @@
 | 107 | 75 | [Polymorphism and Virtual Function](https://www.youtube.com/watch?v=p2h8rGnkD0o) ||| [Solve](https://docs.google.com/document/d/1w95UtbHuoBNTrs5ptSCIsdveDUEoJAyoPPBTXWIOLSo) |
 | 108 | 76 | [Exception Handling](https://www.youtube.com/watch?v=essQiHKRmrc) ||| []() |
 | 109 | 77 | [File Handling](https://www.youtube.com/watch?v=NBsmPHXjLfg) ||| []() |
+| 112 | 78 | [Introduction To Linked List - Traversal and Insertion](https://www.youtube.com/watch?v=CE150x4w0bo) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
