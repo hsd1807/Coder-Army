@@ -87,7 +87,9 @@
 | 108 | 76 | [Exception Handling](https://www.youtube.com/watch?v=essQiHKRmrc) ||| []() |
 | 109 | 77 | [File Handling](https://www.youtube.com/watch?v=NBsmPHXjLfg) ||| []() |
 | 112 | 78 | [Introduction To Linked List - Traversal and Insertion](https://www.youtube.com/watch?v=CE150x4w0bo) ||| []() |
-| | | []() ||| []() |
+| 114 | 79 | [Deletion in a Singly Linked List, Deletion in Constant Time](https://www.youtube.com/watch?v=tLeSDFqch3I) ||| []() |
+| 115 | 80 | [Reverse a Linked List, Middle of Linked List, Rotate Linked List](https://www.youtube.com/watch?v=xcm3srdOQ0w) ||| []() |
+| 116 | 81 | [Linked List LeetCode Problem: Remove Every Kth Node, Rotate List, Palindrome Linked List](https://www.youtube.com/watch?v=qEJrlcc-hAY) ||| []() |
 
 # LIVE Classes
 | Class Number | Topic | Notes |
