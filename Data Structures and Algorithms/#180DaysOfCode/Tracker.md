@@ -90,6 +90,9 @@
 | 114 | 79 | [Deletion in a Singly Linked List, Deletion in Constant Time](https://www.youtube.com/watch?v=tLeSDFqch3I) ||| []() |
 | 115 | 80 | [Reverse a Linked List, Middle of Linked List, Rotate Linked List](https://www.youtube.com/watch?v=xcm3srdOQ0w) ||| []() |
 | 116 | 81 | [Linked List LeetCode Problem: Remove Every Kth Node, Rotate List, Palindrome Linked List](https://www.youtube.com/watch?v=qEJrlcc-hAY) ||| []() |
+| 119 | 82 | [Introduction to Doubly Linked List](https://www.youtube.com/watch?v=KHvYGAzFKqA) ||| []() |
+| 120 | 83 | [LinkedList Problems](https://www.youtube.com/watch?v=XlwYGxlUQAA) ||| []() |
+| | | []() ||| []() |
 
 # LIVE Classes
 | Class Number | Topic | Notes |
