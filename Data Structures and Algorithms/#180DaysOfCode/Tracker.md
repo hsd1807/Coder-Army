@@ -92,6 +92,7 @@
 | 116 | 81 | [Linked List LeetCode Problem: Remove Every Kth Node, Rotate List, Palindrome Linked List](https://www.youtube.com/watch?v=qEJrlcc-hAY) ||| []() |
 | 119 | 82 | [Introduction to Doubly Linked List](https://www.youtube.com/watch?v=KHvYGAzFKqA) ||| []() |
 | 120 | 83 | [LinkedList Problems](https://www.youtube.com/watch?v=XlwYGxlUQAA) ||| []() |
+| 121 | 84 | [Circular Linked List: Detect Loop in Linked List](https://www.youtube.com/watch?v=nPwQ07wHvcM) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
