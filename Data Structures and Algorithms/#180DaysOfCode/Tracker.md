@@ -1,6 +1,8 @@
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
+> [DSA Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B)
+
 > [Complete DSA Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td)
 
 > Also checkout out -> https://t.me/codingenthusiats for the Notes.
@@ -93,6 +95,7 @@
 | 119 | 82 | [Introduction to Doubly Linked List](https://www.youtube.com/watch?v=KHvYGAzFKqA) ||| []() |
 | 120 | 83 | [LinkedList Problems](https://www.youtube.com/watch?v=XlwYGxlUQAA) ||| []() |
 | 121 | 84 | [Circular Linked List: Detect Loop in Linked List](https://www.youtube.com/watch?v=nPwQ07wHvcM) ||| []() |
+| 122 | 85 | [Hard Problem: Detect and Remove Loop in LinkedList](https://www.youtube.com/watch?v=RrmDZv1i9W8) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
