@@ -1,15 +1,13 @@
 # Coder Army Tracker
 > All in One, One Stop Tracker
 
-> [DSA Playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B)
-
 > [Complete DSA Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td)
 
 > Also checkout out -> https://t.me/codingenthusiats for the Notes.
 
 > Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
 
-| Day | Lecture | Title | Class Illustrations | Notes | HomeWork Sheet | Solutions | Revision |
+| Day | Lecture | [Title](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B) | Class Illustrations | Notes | [HomeWork Sheet](https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv) | Solutions | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
 | 2 | 2 | [FlowCharts and PseudoCode](https://www.youtube.com/watch?v=H_9MSvTL74g) ||| [Solve](https://docs.google.com/document/d/1ighQuVjhWbIcBLko_l24Nn3rNch9MKxaWjKgXP2Y-OI) |
@@ -96,6 +94,7 @@
 | 120 | 83 | [LinkedList Problems](https://www.youtube.com/watch?v=XlwYGxlUQAA) ||| []() |
 | 121 | 84 | [Circular Linked List: Detect Loop in Linked List](https://www.youtube.com/watch?v=nPwQ07wHvcM) ||| []() |
 | 122 | 85 | [Hard Problem: Detect and Remove Loop in LinkedList](https://www.youtube.com/watch?v=RrmDZv1i9W8) ||| []() |
+| 123 | 86 | [Add two numbers represented by linked lists, Reverse a Linked List in groups of given size](https://www.youtube.com/watch?v=qiS7-e2OXDc) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
