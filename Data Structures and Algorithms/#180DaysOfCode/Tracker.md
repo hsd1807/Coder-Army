@@ -7,7 +7,7 @@
 
 > Sorry, for the incompleteness in the tracker, trying to complete it as soon as possible.
 
-| Day | Lecture | [Title](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B) | Class Illustrations | Notes | [HomeWork Sheet](https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv) | Solutions | Revision |
+| Day | Lecture No. | [Lecture](https://youtube.com/playlist?list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&si=LFeiM4Ef6kGrGJ5B) | [Class Illustrations](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/Class%20Illustrations) | [Notes](https://drive.google.com/file/d/1V8KFGrwBdRDtIb7aBrRD32Rw9JA2q-td) | [HomeWork Sheet](https://drive.google.com/drive/folders/1N9UUtFHRe5a8h1vq3iEVEyvXM5sZDRHv) | [Solutions](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets) | Revision |
 | --- | ------- | ----- | ------------------- | ----- | -------------- | --------- | -------- |
 | 1 | 1 | [Introduction To Programming](https://www.youtube.com/watch?v=y3OOaXrFy-Q) || [View](https://drive.google.com/file/d/1RcgPqM7PQSv9LL24PkBzKa1Zzwc3uHWW) | [Solve](https://docs.google.com/document/d/13tmWkludFv4dKS6tiws2zkFWJ7QLINXhVuKOzR56Jlk) | [Completed](https://github.com/hsd1807/Coder-Army/blob/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/001.%20Introduction%20To%20Programming%20for%20Beginners/HomeWork%20Sheet%20Answers) |
 | 2 | 2 | [FlowCharts and PseudoCode](https://www.youtube.com/watch?v=H_9MSvTL74g) ||| [Solve](https://docs.google.com/document/d/1ighQuVjhWbIcBLko_l24Nn3rNch9MKxaWjKgXP2Y-OI) |
@@ -64,7 +64,7 @@
 | 74 | 53 | [4 Recursive Problems in One shot](https://www.youtube.com/watch?v=LLsIA8U3z18) ||| [Solve](https://docs.google.com/document/d/1ZCwIkpCuYXqUXSZHp7P9lkSJV1wo04tWWnVeSeaOQd4) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/053.%20Recursion%3A%20Factorial%20of%20a%20Number%20%7C%20Sum%20of%20N%20numbers%20%7C%20Power%20of%20number%20%7C%20Sum%20of%20Square%20of%20N%20Numbers/HomeWork%20Sheet%20Solutions) |
 | 75 | 54 | [Recursion Problems on Leetcode](https://www.youtube.com/watch?v=LK0XSDoN62Y) ||| [Solve](https://docs.google.com/document/d/1aM7Z9bGbh-otGxRtYddXkHCJgp-8oyPlaX1FCsw6p4w) |
 | 78 | 55 | [Recursion in Arrays](https://www.youtube.com/watch?v=OxXS1m7afIQ) ||| [Solve](https://docs.google.com/document/d/1lzUIXHtk7LnExRm1w01xwLbGURZV7eXUHDsGgOTw3DY) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/055.%20Recursion%20in%20Arrays/HomeWork%20Sheet%20Solution) |
-| 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) |
+| 79 | 56 | [Recursion in Strings](https://www.youtube.com/watch?v=HsrNq_14GhY) ||| [Solve](https://docs.google.com/document/d/1GmBtnRi9jvQOzRnfW0slgXu9DRsxdVZM-kB-N5tPJkY) | [Completed](https://github.com/hsd1807/Coder-Army/tree/main/Data%20Structures%20and%20Algorithms/HomeWork%20Sheets/056.%20Recursion%20in%20Strings/HomeWork%20Sheet%20Solutions) |
 | 80 | 57 | [Recursion in Binary Search](https://www.youtube.com/watch?v=OnrJK8DcD2M) ||| [Solve](https://docs.google.com/document/d/1SAYcJjyQOHJwkJl4WMQZJH3GHmx787vWa9akhV3gth0) |
 | 81 | 58 | [Time Complexity and Space Complexity in Recursion](https://www.youtube.com/watch?v=2Ekun-ocGnQ) ||| [Solve](https://docs.google.com/document/d/1jR1DMVTqNwykIWc1zapQTBVUIodKsrFSkXD5nDldnx8) |
 | 82 | 59 | [Merge Sort Algorithm](https://www.youtube.com/watch?v=86HOPLCgc00) ||| [Solve](https://docs.google.com/document/d/1rlcfbRod8-KLleMrA7pOcQX0Cs6Ldd7UDlKPt-mcdOs) |
@@ -95,6 +95,8 @@
 | 121 | 84 | [Circular Linked List: Detect Loop in Linked List](https://www.youtube.com/watch?v=nPwQ07wHvcM) ||| []() |
 | 122 | 85 | [Hard Problem: Detect and Remove Loop in LinkedList](https://www.youtube.com/watch?v=RrmDZv1i9W8) ||| []() |
 | 123 | 86 | [Add two numbers represented by linked lists, Reverse a Linked List in groups of given size](https://www.youtube.com/watch?v=qiS7-e2OXDc) ||| []() |
+| 126 | 87 | [Hard Problem on Linked List: Flattening a Linked List, Merge K Sorted Linked List](https://www.youtube.com/watch?v=2DQJvLq-rm8) ||| []() |
+| 127 | 88 | [LinkedList Series End Here: Clone a linked list with next and random pointer](https://www.youtube.com/watch?v=pReLgYYYHJo) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
