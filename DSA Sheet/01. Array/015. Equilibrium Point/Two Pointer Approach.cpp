@@ -1,5 +1,5 @@
 /*
-*  Approach -> Take 2 pointers start and end and variables before and after to store sum from 0 to start in before and n-1 to end i after. Since array has only non-negative elements, the before and after will always increase. Keep adding values in the lesser sum and if start and end point to same index and before and after have equal valus, we have got our Equilibrium Point
+*  Approach -> Take 2 pointers start and end and variables before and after to store sum from 0 to start in before and n-1 to end i after. Since array has only non-negative elements, the before and after will always increase. Keep adding values in the lesser sum and if start and end point to same index and before and after have equal values, we have got our Equilibrium Point
 *  Time Complexity -> O(N)
 *  Space Complexity -> O(1)
 */
