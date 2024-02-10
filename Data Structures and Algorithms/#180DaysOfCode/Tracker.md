@@ -98,6 +98,10 @@
 | 126 | 87 | [Hard Problem on Linked List: Flattening a Linked List, Merge K Sorted Linked List](https://www.youtube.com/watch?v=2DQJvLq-rm8) ||| []() |
 | 127 | 88 | [LinkedList Series End Here: Clone a linked list with next and random pointer](https://www.youtube.com/watch?v=pReLgYYYHJo) ||| []() |
 | 133 | 89 | [Introduction To STACK, Implement Stack Using Arrays and LinkedList](https://www.youtube.com/watch?v=ZOS1fKa_WUY) ||| [Solve](https://docs.google.com/document/d/1zOezQPKnxDO_TILFLsJQ8A49Ovv6MqkQi3MHCzidae0) |
+| 134 | 90 | []() ||| []() |
+| 135 | 91 | []() ||| []() |
+| 136 | 92 | [Stack Problem: Largest Rectangle in Histogram, Maximal Rectangle](https://www.youtube.com/watch?v=SNn5CLjdaQQ) ||| []() |
+| 137 | 93 | [Stack: The Celebrity Problem](https://www.youtube.com/watch?v=s4ssPDs5C-Y) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
