@@ -102,6 +102,9 @@
 | 135 | 91 | [Stack Problem: Next Greater Element, Next Smaller Element, Stock Span Problem](https://www.youtube.com/watch?v=8dwjKE9GM30) ||| []() |
 | 136 | 92 | [Stack Problem: Largest Rectangle in Histogram, Maximal Rectangle](https://www.youtube.com/watch?v=SNn5CLjdaQQ) ||| []() |
 | 137 | 93 | [Stack: The Celebrity Problem](https://www.youtube.com/watch?v=s4ssPDs5C-Y) ||| []() |
+| 140 | 94 | []() ||| []() |
+| 141 | 95 | []() ||| []() |
+| 142 | 96 | [Introduction To Queue, Implement Queue with Array and LinkedList, Circular Queue](https://www.youtube.com/watch?v=Ah-ZDJf9QW0) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
