@@ -99,12 +99,14 @@
 | 127 | 88 | [LinkedList Series End Here: Clone a linked list with next and random pointer](https://www.youtube.com/watch?v=pReLgYYYHJo) ||| []() |
 | 133 | 89 | [Introduction To STACK, Implement Stack Using Arrays and LinkedList](https://www.youtube.com/watch?v=ZOS1fKa_WUY) ||| [Solve](https://docs.google.com/document/d/1zOezQPKnxDO_TILFLsJQ8A49Ovv6MqkQi3MHCzidae0) |
 | 134 | 90 | [STACK Coding Problem : Valid Parentheses, Print Bracket Number, Reverse Array, Get min at pop](https://www.youtube.com/watch?v=abQZotIl70g) ||| []() |
-| 135 | 91 | [Stack Problem: Next Greater Element, Next Smaller Element, Stock Span Problem](https://www.youtube.com/watch?v=8dwjKE9GM30) ||| []() |
-| 136 | 92 | [Stack Problem: Largest Rectangle in Histogram, Maximal Rectangle](https://www.youtube.com/watch?v=SNn5CLjdaQQ) ||| []() |
+| 135 | 91 | [Stack Problem: Next Greater Element, Next Smaller Element, Stock Span Problem](https://www.youtube.com/watch?v=8dwjKE9GM30) ||| [Solve](https://docs.google.com/document/d/1RXoxLBeSigZyX4Q8sEz0_61AvotQdmtRbzbjceAoPvM) |
+| 136 | 92 | [Stack Problem: Largest Rectangle in Histogram, Maximal Rectangle](https://www.youtube.com/watch?v=SNn5CLjdaQQ) ||| [Solve](https://docs.google.com/document/d/1zUgTEW1dGkpK4xgoDrQmIhYKX1AxfpdhCO9NJ73WOGI) |
 | 137 | 93 | [Stack: The Celebrity Problem](https://www.youtube.com/watch?v=s4ssPDs5C-Y) ||| []() |
-| 140 | 94 | []() ||| []() |
-| 141 | 95 | []() ||| []() |
+| 140 | 94 | []() ||| [Solve](https://docs.google.com/document/d/1JSDPQcFHXzz_7ebNX5QsLA7HlgLFeKdpvP8KeAp6z34) |
+| 141 | 95 | [Stack Series End Here: Implement two stacks in an array, N Stack in an Array](https://www.youtube.com/watch?v=ktUYEWjqRI8) ||| []() |
 | 142 | 96 | [Introduction To Queue, Implement Queue with Array and LinkedList, Circular Queue](https://www.youtube.com/watch?v=Ah-ZDJf9QW0) ||| []() |
+| 143 | 97 | []() ||| []() |
+| 144 | 98 | [Queues with Sliding Window Problems](https://www.youtube.com/watch?v=pe-q_7EfFPk) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
