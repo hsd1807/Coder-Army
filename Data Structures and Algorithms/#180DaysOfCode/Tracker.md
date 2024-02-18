@@ -102,10 +102,10 @@
 | 135 | 91 | [Stack Problem: Next Greater Element, Next Smaller Element, Stock Span Problem](https://www.youtube.com/watch?v=8dwjKE9GM30) ||| [Solve](https://docs.google.com/document/d/1RXoxLBeSigZyX4Q8sEz0_61AvotQdmtRbzbjceAoPvM) |
 | 136 | 92 | [Stack Problem: Largest Rectangle in Histogram, Maximal Rectangle](https://www.youtube.com/watch?v=SNn5CLjdaQQ) ||| [Solve](https://docs.google.com/document/d/1zUgTEW1dGkpK4xgoDrQmIhYKX1AxfpdhCO9NJ73WOGI) |
 | 137 | 93 | [Stack: The Celebrity Problem](https://www.youtube.com/watch?v=s4ssPDs5C-Y) ||| []() |
-| 140 | 94 | []() ||| [Solve](https://docs.google.com/document/d/1JSDPQcFHXzz_7ebNX5QsLA7HlgLFeKdpvP8KeAp6z34) |
+| 140 | 94 | [Stack Hard: Maximum of minimum for every window Size, Get Minimum Element from Stack](https://www.youtube.com/watch?v=DCU3T-XqG_s) ||| [Solve](https://docs.google.com/document/d/1JSDPQcFHXzz_7ebNX5QsLA7HlgLFeKdpvP8KeAp6z34) |
 | 141 | 95 | [Stack Series End Here: Implement two stacks in an array, N Stack in an Array](https://www.youtube.com/watch?v=ktUYEWjqRI8) ||| []() |
 | 142 | 96 | [Introduction To Queue, Implement Queue with Array and LinkedList, Circular Queue](https://www.youtube.com/watch?v=Ah-ZDJf9QW0) ||| []() |
-| 143 | 97 | []() ||| []() |
+| 143 | 97 | [Print all Elements in Queue | Implement Queue using Stack | Implement Stack using Queue](https://www.youtube.com/watch?v=MuDF9Yh8y4w) ||| []() |
 | 144 | 98 | [Queues with Sliding Window Problems](https://www.youtube.com/watch?v=pe-q_7EfFPk) ||| []() |
 | | | []() ||| []() |
 
