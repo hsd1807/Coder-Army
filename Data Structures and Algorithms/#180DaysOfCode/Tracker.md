@@ -107,6 +107,11 @@
 | 142 | 96 | [Introduction To Queue, Implement Queue with Array and LinkedList, Circular Queue](https://www.youtube.com/watch?v=Ah-ZDJf9QW0) ||| []() |
 | 143 | 97 | [Print all Elements in Queue | Implement Queue using Stack | Implement Stack using Queue](https://www.youtube.com/watch?v=MuDF9Yh8y4w) ||| []() |
 | 144 | 98 | [Queues with Sliding Window Problems](https://www.youtube.com/watch?v=pe-q_7EfFPk) ||| []() |
+| 147 | 99 | []() ||| []() |
+| 148 | 100 | []() ||| []() |
+| 149 | 101 | [Introduction To Trees, Binary Tree in Data Structure](https://www.youtube.com/watch?v=_b0bfpO3b4I) ||| []() |
+| 150 | 102 | []() ||| []() |
+| 151 | 103 | []() ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
