@@ -105,13 +105,13 @@
 | 140 | 94 | [Stack Hard: Maximum of minimum for every window Size, Get Minimum Element from Stack](https://www.youtube.com/watch?v=DCU3T-XqG_s) ||| [Solve](https://docs.google.com/document/d/1JSDPQcFHXzz_7ebNX5QsLA7HlgLFeKdpvP8KeAp6z34) |
 | 141 | 95 | [Stack Series End Here: Implement two stacks in an array, N Stack in an Array](https://www.youtube.com/watch?v=ktUYEWjqRI8) ||| []() |
 | 142 | 96 | [Introduction To Queue, Implement Queue with Array and LinkedList, Circular Queue](https://www.youtube.com/watch?v=Ah-ZDJf9QW0) ||| []() |
-| 143 | 97 | [Print all Elements in Queue | Implement Queue using Stack | Implement Stack using Queue](https://www.youtube.com/watch?v=MuDF9Yh8y4w) ||| []() |
+| 143 | 97 | [Print all Elements in Queue, Implement Queue using Stack, Implement Stack using Queue](https://www.youtube.com/watch?v=MuDF9Yh8y4w) ||| []() |
 | 144 | 98 | [Queues with Sliding Window Problems](https://www.youtube.com/watch?v=pe-q_7EfFPk) ||| []() |
 | 147 | 99 | []() ||| []() |
 | 148 | 100 | []() ||| []() |
 | 149 | 101 | [Introduction To Trees, Binary Tree in Data Structure](https://www.youtube.com/watch?v=_b0bfpO3b4I) ||| []() |
-| 150 | 102 | []() ||| []() |
-| 151 | 103 | []() ||| []() |
+| 150 | 102 | [Binary Tree in Data Structure, Binary Tree Traversal, How to Create Binary Tree](https://www.youtube.com/watch?v=P30p5jYsiDc) ||| []() |
+| 151 | 103 | [Binary Tree Problems For Technical Interview, Size of Binary Tree, Height of Binary Tree](https://www.youtube.com/watch?v=T78jHD4fNgc) ||| []() |
 | | | []() ||| []() |
 
 # LIVE Classes
