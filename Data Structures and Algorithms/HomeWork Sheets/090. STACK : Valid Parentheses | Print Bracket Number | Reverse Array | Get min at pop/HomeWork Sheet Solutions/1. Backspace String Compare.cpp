@@ -15,7 +15,6 @@ public:
             s.push_back(st.top());
             st.pop();
         }
-        reverse(s.begin(), s.end());
     }
     
     bool backspaceCompare(string s, string t) {
